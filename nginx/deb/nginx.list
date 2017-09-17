@@ -1,0 +1,6 @@
+#deb http://nginx.org/packages/debian/ stretch nginx
+#deb-src http://nginx.org/packages/debian/ stretch nginx
+deb https://mirrors.ustc.edu.cn/debian/ sid main contrib non-free
+deb-src https://mirrors.ustc.edu.cn/debian/ sid main contrib non-free
+#deb http://nginx.org/packages/mainline/debian/ stretch nginx
+#deb-src http://nginx.org/packages/mainline/debian/ stretch nginx
